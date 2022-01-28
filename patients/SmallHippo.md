@@ -10,6 +10,8 @@ It has a scar on its stomach, this scar si yellow.
 
 This Hippo came to us for help, to remove this trace of its scar.
 
+He is the sun of Mummy Hippo.
+
 ### Research report.
 
 ```
