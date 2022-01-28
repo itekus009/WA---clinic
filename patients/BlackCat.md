@@ -14,8 +14,8 @@ He was brought to the clinic for balance test.
 We detected a hole on the neck. 
 It is on the back side. 
 This hole is as big as a human's finger. 
-We decided to have him operated. 
-But now we are still observe this hole.
+We decided to have cat operated. 
+But now we are still observe this hole and pet's behavior.
 
 ```
 
