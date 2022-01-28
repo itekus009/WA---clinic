@@ -1,4 +1,4 @@
-<img src="WAClinic.png" width="250">
+<img src="image.md/WAClinic (1).png" width="150">
 
 ## WAClinic for teddy bears.
 
