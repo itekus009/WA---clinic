@@ -1,4 +1,4 @@
-<img src="image.md/WAClinic (1).png" width="150">
+<img src="image.md/WAClinic.png" width="150">
 
 
 ### Depiction of the character.
