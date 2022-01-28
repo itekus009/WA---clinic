@@ -3,7 +3,7 @@
 ## WAClinic for teddy bears.
 
 ```
-It's a private clinic, when we are operating on stuffed animals.
+It's a private clinic, where we are healing stuffed animals.
 
 You can find here evrithing about our patients.
 
