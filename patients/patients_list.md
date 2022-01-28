@@ -2,4 +2,5 @@
 
 ## The list of our patients.
 
-1. [Black Cat](BlackCat.md)
+1. [Black Cat](https://itekus009.github.io/WAClinic/patients/patients_list.html)
+
