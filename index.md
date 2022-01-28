@@ -9,4 +9,4 @@ We help them to live longer. Our patients are important for us. We love them.
 For now our clinic isn't big, but we have docturs and nourses.
 ```
 
-### [Our patients.](patients/patients_list.md)
+### [Our patients.](https://itekus009.github.io/WAClinic/patients/patients_list.html)
