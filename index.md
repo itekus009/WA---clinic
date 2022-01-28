@@ -13,5 +13,3 @@ For now our clinic isn't big, but we have docturs and nourses.
 ```
 
 ### [Our patients.](patients_list.md)
-
-### [Menu spraw](menu.md)
