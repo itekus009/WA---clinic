@@ -7,3 +7,5 @@
 2. [Small Hippo](https://itekus009.github.io/WAClinic/patients/SmallHippo.html)
 
 3. [Mummy Hippo](https://itekus009.github.io/WAClinic/patients/MummyHippo.html)
+
+4. [Elephant](https://itekus009.github.io/WAClinic/patients/Elephant.html)
