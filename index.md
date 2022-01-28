@@ -12,4 +12,4 @@ We help them to live longer. Our patients are important for us. We love them.
 For now our clinic isn't big, but we have docturs and nourses.
 ```
 
-### Our patients:
+### [Our patients.](patients_list.md)
