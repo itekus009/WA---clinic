@@ -1,5 +1,7 @@
 <img src="https://itekus009.github.io/WAClinic/images/WAClinic.png" width="150">
 
+[Previous page.](https://itekus009.github.io/WAClinic/patients/patients_list.html)
+
 ## Patient: Mummy Hippo
 
 ### Depiction of the character.
