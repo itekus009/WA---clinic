@@ -1,7 +1,5 @@
 <img src="image.md/WAClinic (1).png" width="150">
 
-## Black Cat.
-
 ### Depiction of the character.
 
 This stuffed toy is from USA; New York.
