@@ -6,7 +6,7 @@
 
 This stuffed toy is from USA; New York.
 
-He was brought to the clinic for balance test.
+It was brought to the clinic for balance test.
 
 ### Research report.
 
@@ -19,4 +19,4 @@ But now we are still observe this hole and pet's behavior.
 
 ```
 
-Now it is waiting to be operated.
+Now this cat is waiting to be operated.
