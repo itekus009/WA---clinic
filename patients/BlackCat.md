@@ -1,4 +1,4 @@
-<img src="/images/WAClinic.png" width="150">
+<img src="https://itekus009.github.io/WAClinic/images/WAClinic.png" width="150">
 
 ## Patient: Black Cat
 
