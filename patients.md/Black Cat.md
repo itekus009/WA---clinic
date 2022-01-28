@@ -1,4 +1,4 @@
-<img src="WAClinic.png" width="120">
+<img src="image.md/WAClinic (1).png" width="150">
 
 ## Black Cat.
 
