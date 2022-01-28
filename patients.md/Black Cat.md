@@ -1,5 +1,6 @@
 <img src="image.md/WAClinic.png" width="150">
 
+## Patient: Black Cat
 
 ### Depiction of the character.
 
