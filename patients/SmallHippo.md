@@ -8,7 +8,7 @@
 
 It is still a baybe, be that doesn't do anything - we want to help it!
 
-It has a scar on its stomach, this scar si yellow. 
+It has a scar on its stomach, this scar is yellow. 
 
 This Hippo came to us for help, to remove this trace of its scar.
 
